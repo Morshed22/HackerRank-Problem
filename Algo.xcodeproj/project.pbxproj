@@ -8,6 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		0316F32A2431418500378C97 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0316F3292431418500378C97 /* main.swift */; };
+		03BD034F2433C16D0027F492 /* TwoSets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD034E2433C16D0027F492 /* TwoSets.swift */; };
+		03BD03512433DF760027F492 /* DigonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03502433DF760027F492 /* DigonalDifference.swift */; };
+		03BD03532433E0BF0027F492 /* PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03522433E0BF0027F492 /* PlusMinus.swift */; };
+		03BD03552433E1740027F492 /* Staircase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03542433E1740027F492 /* Staircase.swift */; };
+		03BD03572433E22B0027F492 /* MiniMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03562433E22B0027F492 /* MiniMaxSum.swift */; };
+		03BD03592433E2AE0027F492 /* BirthdayCakeCandles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03582433E2AE0027F492 /* BirthdayCakeCandles.swift */; };
+		03BD035B2433E4A90027F492 /* GradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD035A2433E4A90027F492 /* GradingStudents.swift */; };
+		03BD035D2433E5450027F492 /* AppleanOrange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD035C2433E5450027F492 /* AppleanOrange.swift */; };
+		03BD035F2433E5CE0027F492 /* Kangaroo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD035E2433E5CE0027F492 /* Kangaroo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +34,15 @@
 /* Begin PBXFileReference section */
 		0316F3262431418500378C97 /* Algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algo; sourceTree = BUILT_PRODUCTS_DIR; };
 		0316F3292431418500378C97 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		03BD034E2433C16D0027F492 /* TwoSets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSets.swift; sourceTree = "<group>"; };
+		03BD03502433DF760027F492 /* DigonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigonalDifference.swift; sourceTree = "<group>"; };
+		03BD03522433E0BF0027F492 /* PlusMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusMinus.swift; sourceTree = "<group>"; };
+		03BD03542433E1740027F492 /* Staircase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Staircase.swift; sourceTree = "<group>"; };
+		03BD03562433E22B0027F492 /* MiniMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniMaxSum.swift; sourceTree = "<group>"; };
+		03BD03582433E2AE0027F492 /* BirthdayCakeCandles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayCakeCandles.swift; sourceTree = "<group>"; };
+		03BD035A2433E4A90027F492 /* GradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudents.swift; sourceTree = "<group>"; };
+		03BD035C2433E5450027F492 /* AppleanOrange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleanOrange.swift; sourceTree = "<group>"; };
+		03BD035E2433E5CE0027F492 /* Kangaroo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kangaroo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +76,15 @@
 			isa = PBXGroup;
 			children = (
 				0316F3292431418500378C97 /* main.swift */,
+				03BD034E2433C16D0027F492 /* TwoSets.swift */,
+				03BD03502433DF760027F492 /* DigonalDifference.swift */,
+				03BD03522433E0BF0027F492 /* PlusMinus.swift */,
+				03BD03542433E1740027F492 /* Staircase.swift */,
+				03BD03562433E22B0027F492 /* MiniMaxSum.swift */,
+				03BD03582433E2AE0027F492 /* BirthdayCakeCandles.swift */,
+				03BD035A2433E4A90027F492 /* GradingStudents.swift */,
+				03BD035C2433E5450027F492 /* AppleanOrange.swift */,
+				03BD035E2433E5CE0027F492 /* Kangaroo.swift */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -121,6 +148,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				0316F32A2431418500378C97 /* main.swift in Sources */,
+				03BD035F2433E5CE0027F492 /* Kangaroo.swift in Sources */,
+				03BD035D2433E5450027F492 /* AppleanOrange.swift in Sources */,
+				03BD034F2433C16D0027F492 /* TwoSets.swift in Sources */,
+				03BD03532433E0BF0027F492 /* PlusMinus.swift in Sources */,
+				03BD03592433E2AE0027F492 /* BirthdayCakeCandles.swift in Sources */,
+				03BD03512433DF760027F492 /* DigonalDifference.swift in Sources */,
+				03BD03552433E1740027F492 /* Staircase.swift in Sources */,
+				03BD035B2433E4A90027F492 /* GradingStudents.swift in Sources */,
+				03BD03572433E22B0027F492 /* MiniMaxSum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
