@@ -37,3 +37,8 @@ import Foundation
 
 /***************Breaking the Records ***************/
 //print(breakingRecords(scores: [3, 4, 21, 36, 10, 28, 35, 5, 24, 42]))
+
+/***************Birthday Chocolate***************/
+//print(birthday(s: [1, 2, 1, 3, 2], d: 3, m: 2))
+//print(birthday(s: [1, 1, 1, 1, 1, 1], d: 3, m: 2))
+//print(birthday(s: [4], d: 4, m: 1))
