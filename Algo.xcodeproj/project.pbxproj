@@ -10,6 +10,7 @@
 		0316F32A2431418500378C97 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0316F3292431418500378C97 /* main.swift */; };
 		0383DA252434551F008BBD04 /* BreakingRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0383DA242434551F008BBD04 /* BreakingRecord.swift */; };
 		0383DA2724346BAA008BBD04 /* BirthdayChocolate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0383DA2624346BAA008BBD04 /* BirthdayChocolate.swift */; };
+		0383DA29243478E4008BBD04 /* DivisibleSumPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0383DA28243478E4008BBD04 /* DivisibleSumPairs.swift */; };
 		03BD034F2433C16D0027F492 /* TwoSets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD034E2433C16D0027F492 /* TwoSets.swift */; };
 		03BD03512433DF760027F492 /* DigonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03502433DF760027F492 /* DigonalDifference.swift */; };
 		03BD03532433E0BF0027F492 /* PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD03522433E0BF0027F492 /* PlusMinus.swift */; };
@@ -38,6 +39,7 @@
 		0316F3292431418500378C97 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		0383DA242434551F008BBD04 /* BreakingRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecord.swift; sourceTree = "<group>"; };
 		0383DA2624346BAA008BBD04 /* BirthdayChocolate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayChocolate.swift; sourceTree = "<group>"; };
+		0383DA28243478E4008BBD04 /* DivisibleSumPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleSumPairs.swift; sourceTree = "<group>"; };
 		03BD034E2433C16D0027F492 /* TwoSets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSets.swift; sourceTree = "<group>"; };
 		03BD03502433DF760027F492 /* DigonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DigonalDifference.swift; sourceTree = "<group>"; };
 		03BD03522433E0BF0027F492 /* PlusMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusMinus.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				03BD035E2433E5CE0027F492 /* Kangaroo.swift */,
 				0383DA242434551F008BBD04 /* BreakingRecord.swift */,
 				0383DA2624346BAA008BBD04 /* BirthdayChocolate.swift */,
+				0383DA28243478E4008BBD04 /* DivisibleSumPairs.swift */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				0383DA2724346BAA008BBD04 /* BirthdayChocolate.swift in Sources */,
 				03BD035B2433E4A90027F492 /* GradingStudents.swift in Sources */,
 				03BD03572433E22B0027F492 /* MiniMaxSum.swift in Sources */,
+				0383DA29243478E4008BBD04 /* DivisibleSumPairs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
