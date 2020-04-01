@@ -34,3 +34,6 @@ import Foundation
 
 /**************Between Two Sets****************/
 //print(getTotalX(a: [2, 4], b: [16, 32, 96]))
+
+/***************Breaking the Records ***************/
+//print(breakingRecords(scores: [3, 4, 21, 36, 10, 28, 35, 5, 24, 42]))
