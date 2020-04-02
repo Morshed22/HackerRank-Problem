@@ -20,6 +20,7 @@
 		03BD035B2433E4A90027F492 /* GradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD035A2433E4A90027F492 /* GradingStudents.swift */; };
 		03BD035D2433E5450027F492 /* AppleanOrange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD035C2433E5450027F492 /* AppleanOrange.swift */; };
 		03BD035F2433E5CE0027F492 /* Kangaroo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03BD035E2433E5CE0027F492 /* Kangaroo.swift */; };
+		03F9A67324365C9200BD5CDA /* MigratoryBirds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03F9A67224365C9200BD5CDA /* MigratoryBirds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		03BD035A2433E4A90027F492 /* GradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudents.swift; sourceTree = "<group>"; };
 		03BD035C2433E5450027F492 /* AppleanOrange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleanOrange.swift; sourceTree = "<group>"; };
 		03BD035E2433E5CE0027F492 /* Kangaroo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kangaroo.swift; sourceTree = "<group>"; };
+		03F9A67224365C9200BD5CDA /* MigratoryBirds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratoryBirds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				0383DA242434551F008BBD04 /* BreakingRecord.swift */,
 				0383DA2624346BAA008BBD04 /* BirthdayChocolate.swift */,
 				0383DA28243478E4008BBD04 /* DivisibleSumPairs.swift */,
+				03F9A67224365C9200BD5CDA /* MigratoryBirds.swift */,
 			);
 			path = Algo;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0316F32A2431418500378C97 /* main.swift in Sources */,
+				03F9A67324365C9200BD5CDA /* MigratoryBirds.swift in Sources */,
 				03BD035F2433E5CE0027F492 /* Kangaroo.swift in Sources */,
 				03BD035D2433E5450027F492 /* AppleanOrange.swift in Sources */,
 				03BD034F2433C16D0027F492 /* TwoSets.swift in Sources */,

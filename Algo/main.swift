@@ -47,3 +47,7 @@ import Foundation
 //print(divisibleSumPairs(n: 6, k: 3, ar: [1, 3, 2, 6, 1, 2]))
 //print(divisibleSumPairs(n: 5, k: 2, ar: [5, 9, 10, 7, 4]))
 //print(divisibleSumPairs(n: 5, k: 5, ar: [15, 16, 17, 18, 19]))
+
+/***************Migration Birds***************/
+print(migratoryBirds(arr: [1, 4, 4, 4, 5, 3]))
+//print(migratoryBirds(arr: [1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4]))
